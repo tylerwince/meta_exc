@@ -1,5 +1,5 @@
 
-import meta_exc as E
+import exc as E
 
 ExcA = E.IOError["A"]
 
